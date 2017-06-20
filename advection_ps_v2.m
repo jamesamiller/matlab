@@ -12,7 +12,7 @@
 %% Parameters
 % Specify the simulation parameters
 clearvars; % clear all variables
-L = 2*pi;  % Length of x domain [-L/2,+L/2]
+L = 4*pi;  % Length of x domain [-L/2,+L/2]
 Nx = 128;  % Number of x computational gridpoints (of form 2^n)
 dx = L/Nx; % grid spacing
 v = 1.0;   % velocity
