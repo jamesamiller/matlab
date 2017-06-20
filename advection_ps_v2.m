@@ -1,5 +1,5 @@
 %% Advection Equation - Pseudospectral
-% JAM 4/13/17.
+% JAM 4/13/17...
 %
 % Solves the advection equation
 %
